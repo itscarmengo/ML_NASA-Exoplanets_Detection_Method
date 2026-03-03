@@ -1,0 +1,18 @@
+{
+  "target": "detection_method",
+  "best_model": "RF",
+  "best_params": {
+    "model__n_estimators": 600,
+    "model__min_samples_split": 2,
+    "model__max_depth": null
+  },
+  "best_cv_f1_macro": 0.9233552348897144,
+  "train_shape": [
+    4150,
+    11
+  ],
+  "test_shape": [
+    1038,
+    11
+  ]
+}
