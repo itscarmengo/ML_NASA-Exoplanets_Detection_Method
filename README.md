@@ -1,5 +1,5 @@
-# ML_NASA-Exoplanets_Detection_Method[README.md](https://github.com/user-attachments/files/25795784/README.md)
-[Upl### Proyecto : Machine Learning:
+### ML_NASA-Exoplanets_Detection_Method[README.md](https://github.com/user-attachments/files/25795784/README.md)
+### Proyecto : Machine Learning:
 Clasificación del método de detección (detection_method)
 
 ### Descripción breve, Objetivo y planteamiento:
@@ -185,5 +185,4 @@ Con el entorno activado:
   [Carmen Gomez Garcia](https://github.com/itscarmengo)
   [Marta Estevez](https://github.com/martuser)
   [Neha Malhotra](https://github.com/maanvikamalhotra)
-oading README.md…]()
-[README.md](https://github.com/user-attachments/files/25795784/README.md)
+
